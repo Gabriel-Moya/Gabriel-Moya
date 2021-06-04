@@ -17,6 +17,7 @@ Estou na graduação de *Análise e desenvolvimento de sistemas*. Sou entusiasta
 
 <a href="https://github.com/Gabriel-Moya/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Moya&show_icons=true&theme=default" /></a>
+
 <a href="https://github.com/Gabriel-Moya/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Moya&hide=html&layout=compact&theme=default" /></a>
 
