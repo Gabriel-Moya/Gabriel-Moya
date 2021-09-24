@@ -1,6 +1,6 @@
 ## Sobre
 
-Estou na graduação de *Análise e Desenvolvimento de Sistemas*. Sou entusiasta de tecnologia com interesse em Segurança da Informação, Hardware e Linux. O que mais curto fazer no tempo livre é tentar automatizar alguma rotina de trabalho utilizando Python.
+Graduando de *Análise e Desenvolvimento de Sistemas*. Sou entusiasta de tecnologia com interesse em Segurança da Informação, Hardware e Linux. O que mais curto fazer no tempo livre é tentar automatizar alguma rotina de trabalho utilizando Python.
 
 ## Infos
 
