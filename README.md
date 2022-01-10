@@ -4,8 +4,8 @@ Graduando de *Análise e Desenvolvimento de Sistemas*. Sou entusiasta de tecnolo
 
 ## Infos
 
-- [x] **Atualmente focado em:** *Python e Programação Orientada a Objetos*
-- [x] **Meus interesses:** *Linux, C, JavaScript, PHP e Eletrônica*
+- [x] **Atualmente focado em:** *JavaScript e Programação Orientada a Objetos*
+- [x] **Meus interesses:** *Linux, C/C++, Python e Eletrônica*
 - [x] **Áreas:** *Empreendedorismo, Cibersegurança*
 
 ### Utilizo o github para manter os códigos e compartilhar aprendizado
