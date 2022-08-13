@@ -1,12 +1,15 @@
+![GitHub followers](https://img.shields.io/github/followers/Gabriel-Moya?label=Follow&style=social)
+<img src="https://komarev.com/ghpvc/?username=Gabriel-Moya&color=008080" alt="Profile views " />
+
 ## Sobre
 
-Graduando de *Análise e Desenvolvimento de Sistemas*. Sou entusiasta de tecnologia com interesse em Segurança da Informação, Hardware e Linux. O que mais curto fazer no tempo livre é tentar automatizar alguma rotina de trabalho utilizando Python.
+Graduando de _Análise e Desenvolvimento de Sistemas_. Sou entusiasta de tecnologia com interesse em Segurança da Informação.
 
 ## Infos
 
-- [x] **Atualmente focado em:** *JavaScript e Programação Orientada a Objetos*
-- [x] **Meus interesses:** *Linux, C/C++, Python e Eletrônica*
-- [x] **Áreas:** *Empreendedorismo, Cibersegurança*
+- [x] **Atualmente atuando com:** _C# .NET Core e JavaScript_
+- [x] **Meus interesses:** _Linux, C/C++, Python e Eletrônica_
+- [x] **Áreas:** _Empreendedorismo, Cibersegurança_
 
 ### Utilizo o github para manter os códigos e compartilhar aprendizado
 
