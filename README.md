@@ -1,22 +1,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/Gabriel-Moya?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=Gabriel-Moya&color=008080" alt="Profile views " />
 
-## Sobre
+## Gabriel Marques Moya
 
-Graduando de _Análise e Desenvolvimento de Sistemas_. Sou entusiasta de tecnologia com interesse em Segurança da Informação.
-
-## Infos
-
-- [x] **Atualmente atuando com:** _C# .NET Core e JavaScript_
-- [x] **Meus interesses:** _Linux, C/C++, Python e Eletrônica_
-- [x] **Áreas:** _Empreendedorismo, Cibersegurança_
-
-### Utilizo o github para manter os códigos e compartilhar aprendizado
-
-Por essa razão, o meu repositório com maior movimentação atualmente está sendo o de estudos, onde separei por linguagens e alguns cursos em andamento, tento sempre manter algumas anotações relevantes junto ao código para quem estiver iniciando poder realizar consultas.
+Formado em _Análise e Desenvolvimento de Sistemas_, com quase 2 anos de experiência como Desenvolvedor e um background tecnológico de mais de 12 anos. Minha carreira é marcada por um forte interesse em Segurança da Informação, DevOps e Linux, e a aspiração de me tornar um especialista em tecnologias de back-end e alto desempenho, com o objetivo de evoluir para a posição de Arquiteto de Software no futuro.
 
 ---
-
-[![card](https://github-readme-stats.vercel.app/api?username=Gabriel-Moya&show_icons=true&theme=default)](https://github.com/Gabriel-Moya/)
-
-[![Gabriel-Moya](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Moya&hide=html&layout=compact&theme=default)](https://github.com/Gabriel-Moya/)
+## Stack
+- [x] **Backend:** C#, .NET e JavaScript
+- [x] **Frontend:** VueJS e Nuxt
+- [x] **Acesso a dados:** PostgreSQL, SQL Server e MongoDB
+- [x] **Outros:** Linux, Docker, C/C++, Python e Eletrônica
