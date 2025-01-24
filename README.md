@@ -3,11 +3,14 @@
 
 ## Gabriel Marques Moya
 
-Formado em _Análise e Desenvolvimento de Sistemas_, com quase 2 anos de experiência como Desenvolvedor e um background tecnológico de mais de 12 anos. Minha carreira é marcada por um forte interesse em Segurança da Informação, DevOps e Linux, e a aspiração de me tornar um especialista em tecnologias de back-end e alto desempenho, com o objetivo de evoluir para a posição de Arquiteto de Software no futuro.
+Possuo 3 anos de experiência em desenvolvimento e mais de 12 anos em outras áreas da tecnologia como implantação de ERPs, suporte ao usuário e assistência técnica. Como profissional, meu objetivo é me especializar em tecnologias back-end, focando em alto desempenho e baixa latência.
+
+Estou sempre aberto a trabalhar com novas tecnologias, buscando expandir meus horizontes e colaborar de forma eficiente em projetos diversificados. Isso me permite contribuir ativamente em equipes multidisciplinares e manter-me atualizado com as últimas tendências do cenário tecnológico.
 
 ---
 ## Stack
-- [x] **Backend:** C#, .NET e JavaScript
-- [x] **Frontend:** VueJS e Nuxt
+- [x] **Backend:** C#, .NET, JavaScript e TypeScript
+- [x] **Frontend:** VueJS, Nuxt e Quasar
 - [x] **Acesso a dados:** PostgreSQL, SQL Server e MongoDB
-- [x] **Outros:** Linux, Docker, C/C++, Python e Eletrônica
+- [x] **Cloud:** AWS
+- [x] **Outros:** Linux, Docker, WPF, ASP.NET
